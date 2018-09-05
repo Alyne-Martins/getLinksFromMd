@@ -1,0 +1,31 @@
+{
+  "name": "links-from-md",
+  "version": "1.0.0",
+  "description": "Esta biblioteca se destina à extrair links de um arquivo markdown.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^5.5.0",
+    "nyc": "^13.0.1"
+  },
+  "devDependencies": {
+    "eslint-plugin-react": "^7.11.1",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alyne-Martins/getLinksFromMd.git"
+  },
+  "author": "Alyne Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alyne-Martins/getLinksFromMd/issues"
+  },
+  "homepage": "https://github.com/Alyne-Martins/getLinksFromMd#readme"
+}
