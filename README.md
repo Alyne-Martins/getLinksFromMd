@@ -1,7 +1,7 @@
 # Extrair links de arquivo markdown: v.1.0.0
 
-**Esta biblioteca se destina à extrair links de um arquivo markdown.** ela recebe uma string (em formato Markdown) e extraia todos os links encontrados. 
-
+**Esta biblioteca se destina à extrair links de um arquivo markdown.** 
+um módulo de Node.js que receba uma string (em formato Markdown) e extraia todos os links encontrados. A implementação é uma função que recebe uma string e devolve um vetor de objetos.
 
 
 ## Os métodos utilizados na biblioteca são:
